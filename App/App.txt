@@ -1,0 +1,9 @@
+
+*The Application do a get request to "https://www.googleapis.com/youtube/v3/search" using JQuery method get, with convient
+ parameters.
+ 
+*Extract data from the Api service and push it to a list
+
+*Display the resluts
+
+
